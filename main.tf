@@ -11,3 +11,4 @@ provider "null" {
   # Configuration options
 }
 resource "null_resource" "cluster" {}
+resource "null_resource" "cluster-1" {}
